@@ -1,0 +1,17 @@
+.stat {
+  padding: 15px 34px;
+  overflow: hidden;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: dimgrey;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 20px;
+  border-width: 0;
+  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  outline: none;
+  cursor: pointer;
+  background: linear-gradient(90deg, #a3ffb0, #2bd9e8);
+  border-radius: 10px;
+  margin: 10px auto;
+}
